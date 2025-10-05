@@ -1,0 +1,14 @@
+/Users/hozyain/VendingMachineApp/bin/Debug/net9.0/VendingMachineApp
+/Users/hozyain/VendingMachineApp/bin/Debug/net9.0/VendingMachineApp.deps.json
+/Users/hozyain/VendingMachineApp/bin/Debug/net9.0/VendingMachineApp.runtimeconfig.json
+/Users/hozyain/VendingMachineApp/bin/Debug/net9.0/VendingMachineApp.dll
+/Users/hozyain/VendingMachineApp/bin/Debug/net9.0/VendingMachineApp.pdb
+/Users/hozyain/VendingMachineApp/obj/Debug/net9.0/VendingMachineApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hozyain/VendingMachineApp/obj/Debug/net9.0/VendingMachineApp.AssemblyInfoInputs.cache
+/Users/hozyain/VendingMachineApp/obj/Debug/net9.0/VendingMachineApp.AssemblyInfo.cs
+/Users/hozyain/VendingMachineApp/obj/Debug/net9.0/VendingMachineApp.csproj.CoreCompileInputs.cache
+/Users/hozyain/VendingMachineApp/obj/Debug/net9.0/VendingMachineApp.dll
+/Users/hozyain/VendingMachineApp/obj/Debug/net9.0/refint/VendingMachineApp.dll
+/Users/hozyain/VendingMachineApp/obj/Debug/net9.0/VendingMachineApp.pdb
+/Users/hozyain/VendingMachineApp/obj/Debug/net9.0/VendingMachineApp.genruntimeconfig.cache
+/Users/hozyain/VendingMachineApp/obj/Debug/net9.0/ref/VendingMachineApp.dll
