@@ -1,0 +1,15 @@
+/Users/hozyain/Desktop/OOP/lab1/bin/Debug/net9.0/lab1
+/Users/hozyain/Desktop/OOP/lab1/bin/Debug/net9.0/lab1.deps.json
+/Users/hozyain/Desktop/OOP/lab1/bin/Debug/net9.0/lab1.runtimeconfig.json
+/Users/hozyain/Desktop/OOP/lab1/bin/Debug/net9.0/lab1.dll
+/Users/hozyain/Desktop/OOP/lab1/bin/Debug/net9.0/lab1.pdb
+/Users/hozyain/Desktop/OOP/lab1/obj/Debug/net9.0/lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hozyain/Desktop/OOP/lab1/obj/Debug/net9.0/lab1.AssemblyInfoInputs.cache
+/Users/hozyain/Desktop/OOP/lab1/obj/Debug/net9.0/lab1.AssemblyInfo.cs
+/Users/hozyain/Desktop/OOP/lab1/obj/Debug/net9.0/lab1.csproj.CoreCompileInputs.cache
+/Users/hozyain/Desktop/OOP/lab1/obj/Debug/net9.0/lab1.sourcelink.json
+/Users/hozyain/Desktop/OOP/lab1/obj/Debug/net9.0/lab1.dll
+/Users/hozyain/Desktop/OOP/lab1/obj/Debug/net9.0/refint/lab1.dll
+/Users/hozyain/Desktop/OOP/lab1/obj/Debug/net9.0/lab1.pdb
+/Users/hozyain/Desktop/OOP/lab1/obj/Debug/net9.0/lab1.genruntimeconfig.cache
+/Users/hozyain/Desktop/OOP/lab1/obj/Debug/net9.0/ref/lab1.dll

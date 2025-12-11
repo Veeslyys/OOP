@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <!-- Exclude test project files that live in the lab1.Tests subfolder from being compiled
+       into the main `lab1` project. Tests should be built by the separate test project. -->
+  <ItemGroup>
+    <!-- Test project moved out; no need to exclude test files here anymore. -->
+  </ItemGroup>
+
+</Project>
